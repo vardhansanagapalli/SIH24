@@ -1,0 +1,229 @@
+ Data Labelled for Development
+
+Page Title: Government Museum, Chennai, Chennai (2024) - Images, Timings | Holidify
+
+Page URL: (Not provided, assuming it's the Holidify page for Government Museum, Chennai)
+
+Page Content:
+
+ Overview Section:
+     Title: Government Museum, Chennai
+     Sub-Title: Chennai, Tamil Nadu
+     Ranking: 7 Among Things To Do in Chennai
+     Call to Action: Get Chennai PDF Guide
+     Package Price: ₹ 2,900 onwards
+     Package Link: View Chennai Packages
+     Weather: (Not provided, would need to be dynamically fetched or manually added)
+     Tags: Museum
+     Timings: 9:30 AM - 5 PM
+     Call to Action: Planning a Trip? Ask Your Question
+     Read More Link:  (Presumably to a detailed description of the museum on Holidify)
+ Chennai Travel Packages Section:
+     Heading: Chennai Travel Packages
+     Call to Action: Compare quotes from upto 3 travel agents for free
+     Package Listing:
+         Package 1: 
+             Title: Stunning Tamil Nadu Tour in 1 Week
+             Duration: 8 Days / 7 Nights
+             Price: ₹28,100 per adult on twin sharing
+             Link: Get Offers >
+         Package 2: 
+             Title: Tamil Nadu Temple Tour Package
+             Duration: 7 Days / 6 Nights
+             Price: ₹25,450 per adult on twin sharing
+             Link: Get Offers >
+         Package 3: 
+             Title: Pondicherry-Mahabalipuram Tour with Kanchipuram
+             Duration: 4 Days / 3 Nights
+             Price: ₹8,000 per adult on twin sharing
+             Link: Get Offers >
+         Package 4:
+             Title: 4 Nights Bangkok & Pattaya Full Board Package (Ex Chennai)
+             Duration: 5 Days / 4 Nights
+             Price: ₹ 20,900 per adult on twin sharing (17% off)
+             Link: Get Offers >
+         Package 5:
+             Title: Ooty Group Package From Chennai
+             Duration: 4 Days / 3 Nights
+             Price: ₹3,300 per adult on twin sharing
+             Link: Get Offers >
+         Package 6:
+             Title: Ooty Group Tour Package from Chennai
+             Duration: 4 Days / 3 Nights
+             Price: ₹2,900 per adult on twin sharing
+             Link: Get Offers >
+     View All Packages Button: View All Packages For Chennai
+ Top Hotel Collections Section:
+     Heading: Top Hotel Collections
+     Collection List:
+         ECR Resorts
+         Resorts
+         5 Star Hotels
+         Taj Hotels
+         Best Hotels
+         T Nagar Hotels
+ Top Hotels Near Government Museum Section:
+     Heading: Top Hotels Near Government Museum
+     Hotel Listing:
+         Hotel 1: The Park Chennai
+             Rating: 6.3 (2157 reviews)
+             Distance: 2 kms
+             Price: ₹ 6,299 onwards 
+         Hotel 2: The Leela Palace Chennai
+             Rating: 8.7 (2114 reviews)
+             Distance: 6 kms
+             Price: ₹ 17,000 onwards 
+         Hotel 3: Radisson Blu Hotel Chennai City Centre
+             Rating: 8.3 (2070 reviews)
+             Distance: 1 kms
+             Price: ₹ 8,443 onwards 
+         Hotel 4: ITC Grand Chola, a Luxury Collection Hotel, Chennai
+             Rating: 8.4 (2038 reviews)
+             Distance: 8 kms
+             Price: ₹ 10,800 onwards 
+         Hotel 5: Novotel Chennai Chamiers Road
+             Rating: 8.1 (1796 reviews)
+             Distance: 5 kms
+             Price: ₹ 7,039 onwards 
+         Hotel 6: FabExpress P.A.S Residency
+             Rating: 8.1 (1626 reviews)
+             Distance: 4 kms
+             Price: ₹ 1,416 onwards 
+ Government Museum Reviews Section:
+     Heading: Government Museum Reviews
+     User Review Form:
+         Your rating: (Rating input)
+         Submit Review: (Button)
+     Ask a Question Form:
+         Heading: Have a Question on Government Museum?
+         Call to Action: Ask a question from the travellers who have experience.
+         Input Field: Ask question
+         Button: Ask question
+ Other Top Ranking Places In Chennai Section:
+     Heading: Other Top Ranking Places In Chennai
+     Place Listing:
+         Valluvar Kottam
+             Ranking: 8 among 91 places
+         Ashtalakshmi Temple
+             Ranking: 9 among 91 places
+         Connemara Public Library
+             Ranking: 10 among 91 places
+         Kolli Hills
+             Ranking: 11 among 91 places
+         Elliot's Beach
+             Ranking: 12 among 91 places
+         VGP Golden Beach
+             Ranking: 13 among 91 places
+     View All Places Button: View All Places To Visit In Chennai
+ Nearby Places Section:
+     Heading: Nearby Places
+     Place List:
+         Government Museum, Chennai
+         Connemara Public Library
+         Focus Art Gallery
+         Lalit Kala Akademy
+         Higginbotham's
+         Apparao Art Gallery
+         Gallery Veda
+         Express Avenue
+ Related Posts Section:
+     Heading: Related Posts
+     Post Listing:
+         Post 1:
+             Category: Food & Drink
+             Title: 25 Cafes in Chennai For the Foodie in You!
+         Post 2:
+             Category: Shopping
+             Title: 13 Malls in Chennai You Must Visit For Shopping and More!
+         Post 3:
+             Category: Beaches & Islands
+             Title: Best Beaches in Chennai
+         Post 4:
+             Category: Experiences
+             Title: Bike Rental In Chennai - Prices, Bikes, Documentation & Best Operators
+         Post 5:
+             Category: Sightseeing
+             Title: 45 Best Things to Do in Chennai
+         Post 6:
+             Category: Family Holidays
+             Title: Famous Temples in Chennai - A Glimpse Into The Tamilian Culture
+         Post 7:
+             Category: Adventure
+             Title: Amazing Theme Parks in Chennai for a Fun-filled Day-out
+         Post 8:
+             Category: Sightseeing
+             Title: Gorgeous Parks in Chennai for a Day Amidst Nature
+         Post 9:
+             Category: Sightseeing
+             Title: Best Hill Stations Near Chennai For a Perfect Getaway
+         Post 10:
+             Category: Experiences
+             Title: Water Parks in Chennai To Beat The Summer Heat
+         Post 11:
+             Category: Places Near
+             Title: Amazing One Day Trips from Chennai
+         Post 12:
+             Category: Food & Drink
+             Title: Street Food in Chennai - Best Places To Munch On Some Tasty Food From The Streets of Chennai
+ Similar Places Section:
+     Heading: Similar Places
+     Place Listing:
+         Government Museum, Chennai
+         Valluvar Kottam
+         Dakshinachitra Museum
+         Marundeeswarar Temple
+         Ashtalakshmi Temple
+         Connemara Public Library
+         ISKCON (Hare Rama Hare Krishna) Temple
+         Vivekananda House 
+ Explore Holidify Section:
+     Heading: Explore Holidify
+     Links:
+         Packages
+         Hotels
+         Destinations
+         Collections
+         About Us
+ Currency Section:
+     Currency List:
+         ₹ INR
+         $ USD
+         £ GBP
+         د.إ AED
+         € EUR
+         SGD SGD
+         RM MYR
+         ฿ THB
+         A$ AUD
+ Travel Agent Section:
+     Heading: Travel Agent?
+     Call to Action: Buy Travel Leads
+         Sub-Heading: (100% phone and email verified leads for holiday package)
+     Call to Action: Need help with tour packages? Fill this form to get a callback
+     Contact Information:
+         Phone: 022-48934191
+         Email: [email protected]
+         Hours: Mon-Fri: 10AM - 7PM (IST) Saturday: 10AM - 2PM (IST)
+ Social Media Section:
+     Heading: Follow us
+     Social Media Links:
+         (Links to various social media platforms, not provided)
+ Footer Section:
+     Copyright: © Holidify Travels Pvt Ltd.- All Right Reserved
+     Links:
+         Terms
+         Privacy
+     User Statistics: Over 25 Million+ Happy Holidify Users
+     Agent Statistics: 3000+ travel agents across the world
+     Call to Action: Get amazing deals on packages
+     Call to Action: Get plans from destination experts 
+
+Dynamic Elements (Not Included in this Text):
+
+ Images: Images of Government Museum, Chennai (currently listed as sources, would need to be fetched or replaced with actual image data)
+ Maps: Map showing the location of the Government Museum, Chennai (would need to be implemented dynamically)
+ Forms: The review form and "Ask a Question" form would require dynamic implementation to handle user input and submission. 
+ Social Media Links: The actual links to the social media platforms would need to be added.
+ Packages and Hotels: The price and availability information for packages and hotels would need to be dynamically fetched and updated.
+
+Note: This is a detailed breakdown of the data found on the page. You would need to implement the data fetching, dynamic content loading, and form handling to build the page. This is just the raw data that you can use as a foundation.
